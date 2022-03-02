@@ -1,0 +1,419 @@
+
+<svg xmlns="http://www.w3.org/1999/xhtml">
+<div style="position: relative; display: flex; justify-content: center; align-items: center;">
+<link rel="stylesheet" href="/gviz2/sass/style.css"></link>
+<style>#copy-scene-1-global{background:red;}</style>
+                        <div class="scroll-container" data-scene=".scene-1" data-cut="1"></div>
+                        <div class="scene scene-1 cut-1">
+                        <div class="bg-neonsign "></div>
+                        <div class="scene-scale">
+                        <div class="scene-content"></div>
+                        </div>
+                        </div>
+                        <div class="scene scene-2 scene-below">
+                        <div id="stat-container-0" class="stat-container">
+                        <div class="stat-graphic">
+                        <div class="bg-globe">
+                        <div class="bg-radiating_circle radiating-circle" style="top: 2%; left: 61%; animation-duration: 1s;"></div>
+                        <div class="radiating-circle" style="top: 13%; left: 9%; animation-duration: 1.1s;"></div>
+                        <div class="radiating-circle" style="top: 19%; left: 27%; animation-duration: 0.9s;"></div>
+                        <div class="radiating-circle" style="top: 23%; left: 94%; animation-duration: 1.2s;"></div>
+                        <div class="radiating-circle" style="top: 42%; left: 39%; animation-duration: 0.8s;"></div>
+                        <div class="radiating-circle" style="top: 69%; left: 35%; animation-duration: 1.3s;"></div>
+                        <div class="radiating-circle" style="top: 38%; left: 68%; animation-duration: 0.7s;"></div>
+                        <div class="radiating-circle" style="top: 11%; left: 19%; animation-duration: 1.4s;"></div>
+                        </div>
+                        </div>
+                        <div id="copy-scene-1-global" class="stat-copy copy">
+                        <h2>How common is heartburn and indigestion?</h2>
+                        <ul>
+                        <li>Over 1 billion people worldwide experience regular symptoms of reflux.*</li>
+                        </ul>
+                        </div>
+                        </div>
+                        <div id="stat-container-1" class="stat-container">
+                        <div id="" class="stat-graphic bg-stat1"></div>
+                        <div id="" class="stat-copy copy">
+                        <h2>How common is heartburn and indigestion?</h2>
+                        <ul>
+                        <li>1 in 5 adults experience heartburn and regurgitation at least once a week.*</li>
+                        </ul>
+                        </div>
+                        </div>
+                        <div id="stat-container-2" class="stat-container">
+                        <div class="stat-graphic bg-stat2"></div>
+                        <div id="copy-2" class="stat-copy copy">
+                        <h2>In a recent survey of 551 Australian adults:</h2>
+                        <ul>
+                        <li><span class="blue-text">1 in 2 men</span> and <span class="pink-text">2 in 5 women</span></li>
+                        </ul>
+                        <p>reported experiencing reflux and/or heartburn in the past 12 months*</p>
+                        </div>
+                        </div>
+                        <div id="stat-container-3" class="stat-container">
+                        <div class="stat-graphic bg-stat3"></div>
+                        <div id="copy-3" class="stat-copy copy">
+                        <h2>Of all the people who experienced reflux and/or heartburn in the past year,</h2>
+                        <ul>
+                        <li><span class="blue-text">1 in 4 suffered episodes a few times each week* </span> and</li>
+                        <li>at least <span class="pink-text"> 1 in 10 suffered symptoms every day*</span></li>
+                        </ul>
+                        </div>
+                        </div>
+                        <div id="footnote-1" class="footnote">*Disorders of the oesophagus: Gastro-oesophageal reflux [published March 2016, amended December 2019]. In: eTG complete [digital]. Melbourne: Therapeutic Guidelines Limited; March 2020. Locke GR 3rd, et al. Gastroenterology. 1997;112(5):1448-1456.</div>
+                        <div id="footnote-2" class="footnote">*Colmar Brunton. Gaviscon online research (commissioned by Reckitt Benckiser). March 2019.</div>
+                        <div id="footnote-recent-meta" class="footnote">*A recent meta-analysis identified the worldwide prevalence of gastro-oesophageal reflux disease (GORD, defined as mild symptoms of heartburn and/or regurgitation at least twice a week or moderate to severe symptoms at least once a week) at 14%, estimating 1.03 billion people who suffer from GORD.</div>
+                        </div>
+                        <div class="scroll-container" data-scene=".scene-2" data-cut="2"></div>
+                        <div class="scroll-container" data-scene=".scene-2" data-cut="3"></div>
+                        <div class="scroll-container" data-scene=".scene-2" data-cut="4"></div>
+                        <div class="scroll-container" data-scene=".scene-2" data-cut="5"></div>
+                        <div class="scene scene-3 cut-1 scene-below">
+                        <div class="scene-scale">
+                        <div class="scene-content">
+                        <div class="scene-heading">Scene 3</div>
+                        <div class="background-static bg-background_static"></div>
+                        <div class="perspective-level-4 bg-perspective_level_4 mobile-element">
+                        <div class="speech-bubble-cycler speech-bubble-cycler-1">
+                        <div class="speech-bubble speech-bubble-spaghetti bg-bubble_spaghetti"></div>
+                        <div class="speech-bubble speech-bubble-chilly-tacos bg-bubble_chilly_tacos"></div>
+                        <div class="speech-bubble speech-bubble-garlic-bread bg-bubble_garlic_bread"></div>
+                        </div>
+                        </div>
+
+                        <div class="perspective-level-3 bg-perspective_level_3">
+                        <div class="speech-bubble-cycler speech-bubble-cycler-2">
+                        <div class="speech-bubble bg-bubble_mint_choco speech-bubble-mint-choco"></div>
+                        <div class="speech-bubble bg-bubble_pink_lemonade speech-bubble-pink-lemonade"></div>
+                        </div>
+                        </div>
+                        <div class="perspective-level-2 bg-perspective_level_2">
+                        <div class="speech-bubble-cycler speech-bubble-cycler-3">
+                        <div class="speech-bubble bg-bubble_cheese_burger speech-bubble-cheese-burger"></div>
+                        <div class="speech-bubble bg-bubble_pizza speech-bubble-pizza"></div>
+                        </div>
+                        <div class="bg-pocket pocket"></div>
+                        </div>
+                        <div class="perspective-level-1 bg-perspective_level_1">
+                        <div class="bar-bench bg-bar_bench"></div>
+                        <div class="drinker drinker--drink-up bg-drinker_drink_up"></div>
+                        <div class="drinker drinker--drink-down bg-drinker_drink_down"></div>
+                        </div>
+                        </div>
+                        <div class="lookingglass bg-transparent"></div>
+                        </div>
+                        <div class="copy" data-cut="2">
+                        <h2>What does <span class="pink-text">heartburn</span> feel like?</h2>
+                        <p>Heartburn is very common and describes the burning pain that moves from the chest towards the throat.</p>
+                        </div>
+                        <div class="copy" data-cut="3">
+                        <h2>What does <span class="blue-text">indigestion</span> feel like?</h2>
+                        <p>Indigestion is another symptom you might experience. It can feel like pain, burning or discomfort in your upper abdomen. You might also feel bloated or 'gassy' and burp a lot too.</p>
+                        </div>
+                        <div class="copy" data-cut="4">
+                        <h2>What's heartburn, reflux and indigestion all about?</h2>
+                        <p>When deciding if you’re going to have that fried food, fizzy drink or sweet treat, are you wondering in the back of your mind whether you’re going to get that burning sensation in your throat or an uncomfortable feeling in your stomach? Here’s what is happening in the body when you experience the symptoms of what’s called reflux.</p>
+                        </div>
+                        <div class="copy" data-cut="5">
+                        <h2>Types of food and drink that can trigger <span class="pink-text">heartburn</span></h2>
+                        <h3>Foods:</h3>
+                        <ul>
+                        <li>Fatty foods (e.g. burgers, pizza, fried chicken, chips)</li>
+                        <li>Spicy foods (e.g. chilli, pepper, curry)</li>
+                        <li>Salt and salt substitutes</li>
+                        <li>Garlic or onions</li>
+                        <li>Chocolate</li>
+                        <li>Mint (e.g. spearmint, peppermint)</li>
+                        <li>Tomatoes and tomato products</li>
+                        <li>Citrus fruit</li>
+                        </ul>
+                        </div>
+                        <div class="copy" data-cut="6">
+                        <h2>Types of food and drink that can trigger <span class="pink-text">heartburn</span></h2>
+                        <h3>Drinks:</h3>
+                        <ul>
+                        <li>Alcoholic beverages</li>
+                        <li>Carbonated beverages (e.g. soft drinks, soda water)</li>
+                        <li>Citrus fruit juice or tomato juice</li>
+                        <li>Caffeinated beverages (e.g. coffee, tea, cola)</li>
+                        </ul>
+                        </div>
+                        <div class="copy" data-cut="7">
+                        <h2>Foods and drink that can trigger <span class="blue-text">indigestion</span></h2>
+                        <ul>
+                        <li>Fatty foods (e.g. burgers, pizza, fried chicken, chips)</li>
+                        <li>Spicy foods (e.g. chilli, pepper, curry)</li>
+                        <li>Tomatoes and tomato products</li>
+                        <li>Citrus fruit</li>
+                        <li>Alcohol (e.g. beer, wine, spirits, cocktails)</li>
+                        <li>Caffeinated beverages (e.g. coffee, tea, cola)</li>
+                        <li>Carbonated beverages (e.g. soft drinks, soda water)</li>
+                        <li>Citrus fruit juice or tomato juice</li>
+                        </ul>
+                        </div>
+                        <div class="copy copy--right" data-cut="8">
+                        <h2>Risk factors for reflux</h2>
+                        <h3>Alcohol consumption</h3>
+                        <p>Moderate to high alcohol intake (&gt;7 standard drinks per week) can increase risk for reflux symptoms.</p>
+                        </div>
+                        <div class="copy copy--right" data-cut="9">
+                        <h2>Risk factors for reflux</h2>
+                        <h3>Smoking</h3>
+                        <p>Risk for reflux symptoms increases with both the duration and amount of smoking.</p>
+                        </div>
+                        <div class="copy copy--left" data-cut="10">
+                        <h2>Risk factors for reflux</h2>
+                        <h3>Certain medications</h3>
+                        <p>Some medications can cause or worsen reflux symptoms</p>
+                        </div>
+                        <div class="copy copy--left" data-cut="11">
+                        <h2>Risk factors for reflux</h2>
+                        <h3>Obesity</h3>
+                        <p>Being overweight or obese<sup>†</sup> or carrying extra belly fat can increase pressure on the stomach and cause reflux symptoms</p>
+                        </div>
+                        <div class="copy copy--left" data-cut="12">
+                        <h2>Risk factors for reflux</h2>
+                        <h3>Pregnancy</h3>
+                        <p>Up to 80% of pregnant women experience heartburn.<sup>^</sup></p>
+                        </div>
+                        <div class="copy copy--left" data-cut="13">
+                        <h2>Risk factors for reflux</h2>
+                        <h3>Genetics</h3>
+                        <p>Having a first-degree relative with heartburn increases risk for reflux symptoms.</p>
+                        </div>
+                        <div class="copy copy--right" data-cut="14">
+                        <h2>Risk factors for reflux</h2>
+                        <h3>Age</h3>
+                        <p>Regular reflux symptoms are more common in adults aged over 35 than in younger adults.<sup>‡</sup></p>
+                        </div>
+                        <div id="footnote-obesity" class="footnote"><sup>†</sup>Obese is defined as body mass index (BMI) &gt;30 kg/m2</div>
+                        <div id="footnote-pregnancy" class="footnote"><sup>^</sup>Reflux is estimated to occur in 30% to 50% of pregnancies, with the incidence up to 80% in some groups. [Richter JE. Aliment Pharmacol Ther. 2005;22(9):749-757; Ali RA, Egan LJ. Best Pract Res Clin Gastroenterol. 2007;21(5):793-806; Malfertheiner SF, et al. BMC Gastroenterol. 2012;12:131].</div>
+                        <div id="footnote-age" class="footnote"><sup>‡</sup>Prevalence of mild symptoms of heartburn and/or regurgitation at least twice a week or moderate to severe symptoms at least once a week increases from 8.7% in adults aged 18 to 34 years to 14.5% in adults aged 35 to 59 years and 13.1% in adults aged over 60 years</div>
+                        </div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="1"></div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="2"></div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="3"></div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="4"></div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="5"></div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="6"></div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="7"></div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="8"></div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="9"></div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="10"></div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="11"></div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="12"></div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="13"></div>
+                        <div class="scroll-container" data-scene=".scene-3" data-cut="14"></div>
+                        <div class="scene scene-4 cut-1 scene-below">
+                        <div class="scene-scale">
+                        <div class="scene-content">
+                        <div class="background-static bg-background_static"></div>
+                        <div class="background-static-light-on bg-background_static_light_on"></div>
+                        <div class="window-lit bg-window_lit"></div>
+                        <div class="table-for-two bg-table_for_two"></div>
+                        <div class="character-served bg-character_served"></div>
+                        <div class="character-eating bg-character_eating"></div>
+                        <div class="character-distressed bg-character_distressed"></div>
+                        <div class="character-leans-forward bg-character_leans_forward"></div>
+                        <div class="intestine intestine-food-in-throat bg-intestine_food_in_throat"></div>
+                        <div class="intestine intestine-food-entering-stomach bg-food_entering_stomach"></div>
+                        <div class="intestine intestine-blue-red-bubbles bg-intestine_red_bubbles"></div>
+                        <div class="intestine intestine-red bg-intestine_red"></div>
+                        <div class="intestine intestine-red-and-filling bg-intestine_red_and_filling"></div>
+                        <div class="intestine intestine-with-flame bg-intestine_with_flame"></div>
+                        <div class="intestine intestine-with-glowing-flame bg-intesting_with_glowing_flame"></div>
+                        <div class="intestine intestine-glow-in-mouth bg-intestine_glow_in_mouth"></div>
+                        <div class="friend bg-friend"></div>
+                        <div class="friend-distressed bg-friend_distressed"></div>
+                        <div class="friend-distressed-2 bg-friend_distressed_2"></div>
+                        <div class="character-standing-distressed bg-character_standing_distressed"></div>
+                        <div class="speech-bubble-home bg-speech_bubble_home"></div>
+                        </div>
+                        </div>
+                        <div class="copy copy--right" data-cut="1">
+                        <h2>How and when you eat can contribute to acid reflux symptoms</h2>
+                        <p>Symptoms of reflux may be more likely when you:</p>
+                        <ul>
+                        <li>Eat too much in one sitting</li>
+                        <li>Eat too quickly</li>
+                        <li>Eat right before exercising</li>
+                        <li>Eat too close to bedtime</li>
+                        </ul>
+                        </div>
+                        <div class="copy copy--right" data-cut="3">
+                        <h2>What happens when you get <span class="pink-text">reflux?</span></h2>
+                        <ul>
+                        <li>When you eat, food travels down the oesophagus (food pipe) from the mouth to the stomach.</li>
+                        <li>At the end of the oesophagus, a sphincter (ring of muscle that works like a valve) relaxes to let food into the stomach and then tightens again to prevent anything from coming back up into the oesophagus.</li>
+                        </ul>
+                        </div>
+                        <div class="copy copy--right" data-cut="9">
+                        <h2>Symptoms of acid reflux</h2>
+                        <p>Acid reflux commonly causes heartburn and regurgitation.</p>
+                        <ul>
+                        <li>Heartburn feels like an uncomfortable or painful burning sensation that develops behind the breastbone and rises toward the throat.</li>
+                        <li>Regurgitation occurs when the stomach contents flow back into the mouth or throat, causing an unpleasant sour or acidic taste in the mouth.</li>
+                        <li>Symptoms can last for just a few minutes or persist for a few hours.</li>
+                        <li>Symptoms can get worse or come back when lying down or bending over.</li>
+                        </ul>
+                        </div>
+                        <div class="copy copy--right" data-cut="11">
+                        <h2>What happens when you get <span class="blue-text">indigestion?</span></h2>
+                        <p>Researchers are still investigating what causes indigestion. What is known is that indigestion can present as:</p>
+                        <ul>
+                        <li>Pain, a burning feeling, or discomfort in your upper tummy</li>
+                        <li>Feeling uncomfortably full after eating</li>
+                        <li>Bloating</li>
+                        <li>Burping</li>
+                        <li>Nausea</li>
+                        <li>Gas</li>
+                        </ul>
+                        </div>
+                        </div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="1"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="2"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="3"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="4"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="5"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="6"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="7"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="8"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="9"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="10"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="11"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="12"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="13"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="14"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="15"></div>
+                        <div class="scroll-container" data-scene=".scene-4" data-cut="16"></div>
+                        <div class="scene scene-home cut-1 scene-below">
+                        <div class="scene-scale">
+                        <div class="scene-content">
+                        <div class="home-scene bg-home_background"></div>
+                        <div class="clock clock--07 bg-clock_07"></div>
+                        <div class="character-home bg-character_home front-center"></div>
+                        <div class="medicine-thought-bubble bg-medicine_thought_bubble"></div>
+                        <div class="character-home-taking-meds bg-character_home_taking_meds front-center"></div>
+                        <div class="stomach stomach-1 bg-antacid_step_1 front-center"></div>
+                        <div class="stomach stomach-2 bg-antacid_step_2 front-center"></div>
+                        <div class="stomach stomach-3 bg-antacid_step_3 front-center"></div>
+                        <div class="stomach stomach-4 bg-antacid_step_4 front-center"></div>
+                        <div class="stomach stomach-5 bg-antacid_step_5 front-center"></div>
+                        <div class="stomach stomach-6 bg-antacid_step_6 front-center"></div>
+                        <div class="stomach stomach-7 bg-antacid_step_7 front-center"></div>
+                        <div class="stomach stomach-8 bg-antacid_step_8 front-center"></div>
+                        <div class="character-home-waiting bg-character_home_waiting front-center"></div>
+                        <div class="character-home-happy bg-character_home_happy front-center"></div>
+                        </div>
+                        </div>
+                        <div class="copy copy--right" data-cut="3">
+                        <h2>How to relieve heartburn and indigestion</h2>
+                        <p>Over-the-counter medications such as <span class="blue-text">Gaviscon Dual Action</span> that contain an antacid and an alginate can be used to relieve the pain and discomfort of heartburn and indigestion.</p>
+                        </div>
+                        <div class="copy copy--right" data-cut="7">
+                        <h2>How to relieve heartburn and indigestion</h2>
+                        <p><span class="orange-text">Antacid:</span> neutralises stomach acid to reduce the acidity of any stomach contents that rise up through the oesophagus.</p>
+                        </div>
+                        <div class="copy copy--right" data-cut="12">
+                        <h2>How to relieve heartburn and indigestion</h2>
+                        <p><span class="orange-text">Alginates:</span> form a protective layer on top of the stomach contents to help prevent stomach contents from rising up the oesophagus.</p>
+                        </div>
+                        <div class="copy copy--time" data-cut="15">
+                        <p>1 minute later...</p>
+                        </div>
+                        <div class="copy copy--time" data-cut="16">
+                        <p>2 minutes later...</p>
+                        </div>
+                        <div class="copy copy--time" data-cut="17">
+                        <p>3 minutes later...</p>
+                        </div>
+                        <div class="copy copy--time" data-cut="17-2">
+                        <p>4 minutes later...</p>
+                        </div>
+                        <div class="copy copy--left copy--alt" data-cut="18">
+                        <p><span class="blue-text">Gaviscon Dual Action Liquid</span> starts to work from just <span class="pink-text">4 minutes</span>.*</p>
+                        <div class="copy copy--final" data-cut="19">
+                        <h2>Lifestyle tips for minimising reflux</h2>
+                        <p>By adjusting a few lifestyle factors, you can help to reduce reflux</p>
+                        <h3>Change how and when you eat</h3>
+                        <ul>
+                        <li>Eat smaller meals more frequently throughout the day.</li>
+                        <li>Take your time when eating.</li>
+                        <li>Plan to finish eating 2 to 3 hours before going to bed or doing vigorous exercise.</li>
+                        <li>Avoid lying down or bending over straight after eating.</li>
+                        </ul>
+                        <h3>Watch what you eat</h3>
+                        <ul>
+                        <li>Avoid particular foods and drinks that you know trigger your acid reflux symptoms.</li>
+                        <li>Drink fluids between meals rather than with meals.</li>
+                        <li>Reduce or limit how much caffeine, soft drink, and alcohol you drink.</li>
+                        <li>Increase the amount of fibre in your diet.</li>
+                        </ul>
+                        </div>
+                        <div class="copy copy--final" data-cut="20">
+                        <h2>Lifestyle tips for minimising reflux</h2>
+                        <p>By adjusting a few lifestyle factors, you can help to reduce reflux</p>
+                        <h3>Improve your health</h3>
+                        <ul>
+                        <li>Maintain a healthy weight or consider losing weight if you are overweight or obese – even modest weight loss could help lower your risk of symptoms.</li>
+                        <li>Quit smoking.</li>
+                        <li>Review any medications with your GP to see if they may be affecting your symptoms.</li>
+                        </ul>
+                        <h3>Other tips</h3>
+                        <ul>
+                        <li>Wear loose-fitting clothing to help reduce pressure on your stomach.</li>
+                        <li>Raise the head of your bed to help relieve reflux symptoms that occur at night.</li>
+                        <li>Lie on the left side of your body when sleeping.</li>
+                        </ul>
+                        </div>
+                        <div class="copy copy--final" data-cut="21">
+                        <h2>Did you know</h2>
+                        <ul>
+                        <li>Dogs and cats can get acid reflux too! And like humans, fatty foods can make it worse, so a healthy diet is the best prevention for both you and your pets. Remember that Gaviscon products are designed for use in humans – always talk to your vet about your pets’ health.</li>
+                        <li>Centuries ago, people used minerals such as chalk (calcium carbonate), magnesia (magnesium carbonate), and bismuth to help relieve acid reflux symptoms. These same minerals now form the basis of our modern-day medicines!</li>
+                        </ul>
+                        </div>
+                        <div class="copy copy--final" data-cut="22">
+                        <h2>Pregnancy and Reflux</h2>
+                        <ul>
+                        <li>Up to 80% of pregnant women experience heartburn.^</li>
+                        <li>Heartburn is so common during pregnancy that it is often considered a normal part of pregnancy.</li>
+                        <li>Symptoms of reflux usually start towards the end of the first trimester and may become more frequent and severe as pregnancy progresses.</li>
+                        <li>Heartburn and regurgitation may be worse when eating and at bedtime.</li>
+                        <li>Reflux during pregnancy can be related to changes in hormone levels that cause the sphincter (muscle ring) between the oesophagus and the stomach to relax, as well as increased pressure on the stomach from the growing baby.</li>
+                        </ul>
+                        </div>
+                        <div id="footnote-reflux-pregnancy" class="footnote">^Reflux is estimated to occur in 30% to 50% of pregnancies, with the incidence up to 80% in some groups. [Richter JE. Aliment Pharmacol Ther. 2005;22(9):749-757; Ali RA, Egan LJ. Best Pract Res Clin Gastroenterol. 2007;21(5):793-806; Malfertheiner SF, et al. BMC Gastroenterol. 2012;12:131].</div>
+                        <div id="footnote-may-not-be-for-you" class="footnote">This medicine may not be right for you. Read the label before purchase. Follow the directions for use. If symptoms persist, talk to your health professional.</div>
+                        <div id="footnote-stragula-2010" class="footnote">
+                        <div>This medicine may not be right for you. Read the label before purchase. Follow the directions for use. If symptoms persist, talk to your health professional.</div>
+                        <div>*Strugala et al. 2010 (RB Sponsored)</div>
+                        </div>
+                        </div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="1"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="2"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="3"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="4"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="5"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="6"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="7"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="8"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="9"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="10"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="11"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="12"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="13"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="14"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="15"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="16"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="17"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="17-2"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="18"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="19"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="20"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="21"></div>
+                        <div class="scroll-container" data-scene=".scene-home" data-cut="22"></div>
+                        </div>
+                </div>
+                <script src="/gviz2/js/script.js"></script>
+                </svg>

@@ -304,7 +304,11 @@
           transform: scale(10);
 }
 
-.article-details-page .container-fluid .article-body .text-block .scene-4.cut-16 .window-lit {
+.article-details-page .container-fluid .article-body .text-block .scene-4.cut-16 .background-static {
+  opacity: 0;
+}
+
+.article-details-page .container-fluid .article-body .text-block .scene-4.cut-16 .background-static-light-on {
   opacity: 1;
 }
 /*# sourceMappingURL=scenes.css.map */

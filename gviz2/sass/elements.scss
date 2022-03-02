@@ -10,11 +10,6 @@
 }
 
 .neonsign{
-  width: 1216px;
-  height: 465px;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-image: svg('layers/neonsign.svg');
   position: absolute;
   left:50%;
   top:-100%;
@@ -22,163 +17,129 @@
 }
 
 .stomach{
-  width:172px;
-  height: 451px;
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
   top:286px;
   left:940px;
 }
 
 .stomach-1{
-  background-image:svg('layers/antacid-step-1.svg');
+  
 }
 .stomach-2{
-  background-image:svg('layers/antacid-step-2.svg');
+  
 }
 .stomach-3{
-  background-image:svg('layers/antacid-step-3.svg');
+  
 }
 .stomach-4{
-  background-image:svg('layers/antacid-step-4.svg');
+  
 }
 .stomach-5{
-  background-image:svg('layers/antacid-step-5.svg');
+  
 }
 .stomach-6{
-  background-image:svg('layers/antacid-step-6.svg');
+  
 }
 .stomach-7{
-  background-image:svg('layers/antacid-step-7.svg');
+  
 }
 .stomach-8{
-  background-image:svg('layers/antacid-step-8.svg');
+  
 }
 
 .clock{
-  width:181px;
-  height: 181px;
   top:-100px;
   left:1200px;
   position:absolute;
 
   &--07{
-    background-image:svg('layers/clock-07.svg');
+    
   }
 
   &--08{
-    background-image:svg('layers/clock-08.svg');
+    
   }
 }
 
 
 .intestine{
-  width:149px;
-  height: 391px;
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
   top:89px;
   left:417px;
 }
 
 .intestine-food-in-throat{
   //was png
-  background-image:svg('layers/intestine-food-in-throat.svg');
+  
 }
 
 .intestine-food-entering-stomach{
-  background-image:svg('layers/intestine-food-entering-stomach.svg');
+  
 }
 .intestine-blue-red-bubbles{
-  background-image:svg('layers/intestine-blue-red-bubbles.svg');
+  
 }
 .intestine-red{
-  background-image:svg('layers/intestine-red.svg');
+  
 }
 .intestine-red-and-filling{
-  background-image:svg('layers/intestine-red-and-filling.svg');
+  
 }
 .intestine-with-flame{
-  background-image:svg('layers/intestine-with-flame.svg');
+  
 }
 .intestine-with-glowing-flame{
-  background-image:svg('layers/intestine-with-glowing-flame.svg');
+  
 }
 .intestine-glow-in-mouth{
-  background-image:svg('layers/intestine-glow-in-mouth.svg');
+  
   top:82px;
-  height: 399px;
+  //height: 399px;
 }
 
 
 .character-home-sad{
-  width:409px;
-  height: 1136px;
+  
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background:svg('layers/character-home-sad.svg');
+  
 }
 
 .character-home-hangs-head{
-  width:412px;
-  height: 1116px;
+  
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background:svg('layers/character-home-hangs-head.svg');
+  
+  
 }
 
 .character-home-waiting{
-  width:409px;
-  height: 1136px;
+  
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background:svg('layers/character-home-waiting.svg');
+  
 }
 
 .character-home-happy{
-  width:409px;
-  height: 1136px;
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background:svg('layers/character-home-happy.svg');
+  
 }
 
 .home-scene{
-  width:1920px;
-  height: 426px;
   position: absolute;
   top:30%;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background:svg('layers/home-background.svg');
+  
 }
 
   
 
 .character-home-taking-meds {
-  background: svg("layers/character-home.svg");
-  width: 412px;
-  height: 1110px;
-  background-repeat: no-repeat;
-  background-size: contain;
+
   position: absolute;
 }
 
   
 
 .food-particles{
-  background:svg('layers/food-particles.svg');
+
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
-  width:100px;
-  height: 100px;
   left:99px;
   animation-name: swallow;
   animation-duration: 10s;
@@ -187,12 +148,8 @@
 }
 
 .red-stuff{
-  background:svg('layers/red-stuff.svg');
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
-  width:162px;
-  height: 109px;
+  
   left:98px;
   top:608px;
   animation-name: appear;
@@ -205,9 +162,8 @@
   position: absolute;
   .antacid-step{
     position: absolute;
-    width:563;
-    height: 1477;
-    background-size: contain;
+
+
     animation-name:appear;
     animation-duration: 10s;
     animation-iteration-count: infinite;
@@ -215,45 +171,37 @@
     opacity:0;
   }
   .antacid-step-1{
-    background: svg("layers/antacid-step-1.svg");  
+    
     animation:appear;
   }
   .antacid-step-2{
-    background: svg("layers/antacid-step-2.svg"); 
+    
     animation-delay: 10s; 
   }
   .antacid-step-3{
-    background: svg("layers/antacid-step-3.svg");  
+    
     animation-delay: 20s;
   }
   .antacid-step-4{
-    background: svg("layers/antacid-step-4.svg");  
+    
     animation-delay: 30s;
   }
   .antacid-step-5{
-    background: svg("layers/antacid-step-5.svg");  
+    
     animation-delay: 40s;
   }
 }
 .perspective-level-1 {
   //background: svg("layers/perspective-level-1.svg");
-  width: 1920px;
-  height: 817px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
 }
 
 .perspective-level-2 {
-  background: svg("layers/perspective-level-2.svg");
-  width: 1047px;
-  height: 803px;
-  background-repeat: no-repeat;
-  background-size: contain;
+  //TODO: Inspect this. Different sizes for desktop and mobile!!!
   position: absolute;
   &--mobile{
-    width: 383px;
-    height: 294px;
+    //width: 383px;
+    //height: 294px;
   }
 }
 
@@ -263,30 +211,17 @@
 
 
 .perspective-level-3 {
-  background: svg("layers/perspective-level-3.svg");
-  width: 1814px;
-  height: 484px;
-  background-repeat: no-repeat;
-  background-size: contain;
+  
   position: absolute;
 }
 
 .perspective-level-4 {
-  background: svg("layers/perspective-level-3.svg");
-  width: 1814px;
-  height: 484px;
-  background-repeat: no-repeat;
-  background-size: contain;
+  
   position: absolute;
 }
 
 
 .pocket {
-  background: svg("layers/pocket.svg");
-  width: 67px;
-  height: 64px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top:45%;
   left:17%;
@@ -305,11 +240,7 @@
 }
   
 .flame {
-  background: svg("layers/flame.svg");
-  width: 30px;
-  height: 30px;
-  background-repeat: no-repeat;
-  background-size: contain;
+
   position: absolute;
   left:179px;
   top:100px;
@@ -317,39 +248,26 @@
 
 .background-static {
   //was png
-  background: svg("layers/background-static.svg");
-  width: 1920px;
-  height: 610px;
-  background-repeat: no-repeat;
-  background-size: contain;
+
   position: absolute;
 }
 .background-static-light-on {
   //was png
-  background: svg("layers/background-static-light-on.svg");
-  width: 1920px;
-  height: 610px;
-  background-repeat: no-repeat;
-  background-size: contain;
+  
   position: absolute;
 }
 
 .window-lit{
-  background: svg("layers/window-lit.svg");
-  width:10px;
-  height:13px;
   position: absolute;
   top:20.9%;
   left:48.1%;
-  background-size: contain;
+  
 }
 
 .drinker{
-  background-repeat: no-repeat;
-  background-size: contain;
+  //TODO: inspect this. Different sizes on desktop and mobile
   position: absolute;
   &--drink-up {
-    background: svg("layers/drinker-drink-up.svg");
     width: 547px;
     height: 626px;
     left:183px;
@@ -360,7 +278,6 @@
     }
   }
   &--drink-down {
-    background: svg("layers/drinker-drink-down.svg");
     width: 710px;
     height: 604px;
     left:183px;
@@ -374,42 +291,25 @@
 
 
 .bar-bench {
-  background: svg("layers/bar-bench.svg");
-  width: 1920px;
-  height: 278px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   bottom:0;
 }
   
 .table-for-two {
-  background: svg("layers/table-for-two.svg");
-  width: 2190px;
-  height: 613px;
-  background-repeat: no-repeat;
-  background-size: contain;
+
   position: absolute;
   top:320px;
 }
   
 .character-served{
-  background: svg("layers/character-served.svg");
-  width: 560px;
-  height: 958px;
-  background-repeat: no-repeat;
-  background-size: contain;
+  
   position: absolute;
   top:-24px;
   left:372px;
 }
 
 .character-eating{
-  background: svg("layers/character-eating.svg");
-  width: 560px;
-  height: 958px;
-  background-repeat: no-repeat;
-  background-size: contain;
+  
   position: absolute;
   top:-24px;
   left:372px;
@@ -418,55 +318,32 @@
 
 
 .character-leans-forward{
-  background: svg("layers/character-leans-forward.svg");
-  width: 560px;
-  height: 958px;
-  background-repeat: no-repeat;
-  background-size: contain;
+  
   position: absolute;
   top:-24px;
   left:372px;
 }
 
 .friend{
-  background: svg("layers/friend.svg");
-  width: 476px;
-  height: 920px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top:25px;
   left:1040px;
 }
 
 .friend-distressed{
-  background: svg("layers/friend-distressed.svg");
-  width: 476px;
-  height: 920px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top:25px;
   left:1040px;
 }
 
 .friend-distressed-2{
-  background: svg("layers/friend-distressed-2.svg");
-  width: 476px;
-  height: 920px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top:25px;
   left:1040px;
 }
 
 .speech-bubble-home{
-  background: svg("layers/speech-bubble-home.svg");
-  width: 311px;
-  height: 231px;
-  background-repeat: no-repeat;
-  background-size: contain;
+
   position: absolute;
   top:-263px;
   left:319px;
@@ -474,42 +351,26 @@
 
 .medicine-thought-bubble{
   //was png
-  background: svg("layers/medicine-thought-bubble.svg");
-  width: 237px;
-  height: 231px;
-  background-repeat: no-repeat;
-  background-size: contain;
+  
   position: absolute;
   top:-250px;
   left:871px;
 }
 
 .dual-action-bottle{
-  background: svg("layers/dual-action-bottle.svg");
-  width: 50px;
-  height: 122px;
-  background-repeat: no-repeat;
-  background-size: contain;
+  
   margin:auto;
 }
 
 .character-standing-distressed{
-  width: 439px;
-  height: 1219px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   left:351px;
   top:-280px;
-  background-image: svg("layers/character-standing-distressed.svg");
+  
 }
 
 .character-distressed{
-  background-image: svg("layers/character-distressed.svg");
-  width: 560px;
-  height: 958px;
-  background-repeat: no-repeat;
-  background-size: contain;
+  
   position: absolute;
   top:-24px;
   left:351px;
@@ -567,10 +428,6 @@
   position: absolute;
 }
 .speech-bubble{
-  width: 182px;
-  height: 247px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   animation-name: timeshare;
   animation-duration: 7s;
@@ -578,31 +435,24 @@
   opacity: 0;
 }
 .speech-bubble-spaghetti{
-  background-image: svg("layers/bubble-spaghetti.svg");
 }
 .speech-bubble-cheese-burger{
-  background-image: svg("layers/bubble-cheese-burger.svg");
   animation-delay: 1s;
 }
 .speech-bubble-chilly-tacos{
-  background-image: svg("layers/bubble-chilly-tacos.svg");
   animation-delay: 2s;
 }
 .speech-bubble-garlic-bread{
-  background-image: svg("layers/bubble-garlic-bread.svg");
   animation-delay: 3s;
 }
 .speech-bubble-mint-choco{
-  background-image: svg("layers/bubble-mint-choco.svg");
   animation-delay: 4s;
 }
 .speech-bubble-pink-lemonade{
-  background-image: svg("layers/bubble-pink-lemonade.svg");
   animation-delay: 5s;
 }
 
 .speech-bubble-pizza{
-  background-image: svg("layers/bubble-pizza.svg");
   animation-delay: 6s;
 }
 
@@ -613,12 +463,7 @@
 }
 
 .stat-1{
-  background-image: svg("layers/stat1.svg");
-  background-repeat: no-repeat;
-  width: 686px;
-  height: 375px;
-  background-repeat: no-repeat;
-  background-size: contain;
+  
   position: relative;
   background-position: center;
   @media(max-width:600px){
@@ -628,14 +473,9 @@
 }
 
 .stat-2{
-  background-image: svg("layers/stat2.svg");
-  background-repeat: no-repeat;
-  width: 686px;
-  height: 800px;
-  background-repeat: no-repeat;
-  background-size: contain;
+  
   position: relative;
-  background-position: center;
+  
   @media(max-width:600px){
     width:343px;
     height: 375px;
@@ -643,14 +483,7 @@
 }
 
 .stat-3{
-  background-image: svg("layers/stat3.svg");
-  background-repeat: no-repeat;
-  width: 686px;
-  height: 800px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: relative;
-  background-position: center;
   @media(max-width:600px){
     height: 375px;
     width:343px;
@@ -658,11 +491,6 @@
 }
 
 .globe{
-  background-image: svg("layers/globe.svg");
-  background-repeat: no-repeat;
-  width:491px;
-  height:485px;
-  background-size: contain;
   position: relative;
   background-position: center;
   @media(max-width:600px){
@@ -673,11 +501,6 @@
 
 .radiating-circle{
   position:relative;
-  width:25px;
-  height: 25px;
-  background-size:contain;
-  background-repeat: no-repeat;
-  background-image: svg("layers/radiating-circle.svg");
   animation-duration: 2s;
   animation-iteration-count: infinite;
   animation-name: pulse;

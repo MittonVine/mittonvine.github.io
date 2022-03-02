@@ -2,19 +2,24 @@ body{
   background: linear-gradient(180deg, #05003D 0%, #090F5C 43.83%, #0C1672 79.55%);
 }
 
+@media(min-width:600px){
 .article-details-page .container-fluid .article-body .text-block{
 .lookingglass{
   position: absolute;
-  background:url("https://phx-gaviscon-au-prod.husky-2.rbcloud.io/media/f54nvxzu/transparent.png");
-  width:4000px;
-  height: 4000px;
-  background-size: contain;
   opacity: 0;
   top:50%;
   left:50%;
   transform:translate(-50%, -50%);
+  will-change: transform;
+}
+}
 }
 
+@media(max-width:600px){
+  .lookingglass{
+    display: none;
+  }
+}
 
 
 .scene-above, .scene-below{
@@ -219,4 +224,3 @@ body{
   
   
   
-}

@@ -7,11 +7,6 @@
 }
 
 .article-details-page .container-fluid .article-body .text-block .neonsign {
-  width: 1216px;
-  height: 465px;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-image: svg("layers/neonsign.svg");
   position: absolute;
   left: 50%;
   top: -100%;
@@ -20,169 +15,54 @@
 }
 
 .article-details-page .container-fluid .article-body .text-block .stomach {
-  width: 172px;
-  height: 451px;
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
   top: 286px;
   left: 940px;
 }
 
-.article-details-page .container-fluid .article-body .text-block .stomach-1 {
-  background-image: svg("layers/antacid-step-1.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .stomach-2 {
-  background-image: svg("layers/antacid-step-2.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .stomach-3 {
-  background-image: svg("layers/antacid-step-3.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .stomach-4 {
-  background-image: svg("layers/antacid-step-4.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .stomach-5 {
-  background-image: svg("layers/antacid-step-5.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .stomach-6 {
-  background-image: svg("layers/antacid-step-6.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .stomach-7 {
-  background-image: svg("layers/antacid-step-7.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .stomach-8 {
-  background-image: svg("layers/antacid-step-8.svg");
-}
-
 .article-details-page .container-fluid .article-body .text-block .clock {
-  width: 181px;
-  height: 181px;
   top: -100px;
   left: 1200px;
   position: absolute;
 }
 
-.article-details-page .container-fluid .article-body .text-block .clock--07 {
-  background-image: svg("layers/clock-07.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .clock--08 {
-  background-image: svg("layers/clock-08.svg");
-}
-
 .article-details-page .container-fluid .article-body .text-block .intestine {
-  width: 149px;
-  height: 391px;
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
-  top: 92px;
-  left: 390px;
-}
-
-.article-details-page .container-fluid .article-body .text-block .intestine-food-in-throat {
-  background-image: svg("layers/intestine-food-in-throat.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .intestine-food-entering-stomach {
-  background-image: svg("layers/intestine-food-entering-stomach.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .intestine-blue-red-bubbles {
-  background-image: svg("layers/intestine-blue-red-bubbles.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .intestine-red {
-  background-image: svg("layers/intestine-red.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .intestine-red-and-filling {
-  background-image: svg("layers/intestine-red-and-filling.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .intestine-with-flame {
-  background-image: svg("layers/intestine-with-flame.svg");
-}
-
-.article-details-page .container-fluid .article-body .text-block .intestine-with-glowing-flame {
-  background-image: svg("layers/intestine-with-glowing-flame.svg");
+  top: 89px;
+  left: 417px;
 }
 
 .article-details-page .container-fluid .article-body .text-block .intestine-glow-in-mouth {
-  background-image: svg("layers/intestine-glow-in-mouth.svg");
   top: 82px;
-  height: 399px;
 }
 
 .article-details-page .container-fluid .article-body .text-block .character-home-sad {
-  width: 409px;
-  height: 1136px;
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background: svg("layers/character-home-sad.svg");
 }
 
 .article-details-page .container-fluid .article-body .text-block .character-home-hangs-head {
-  width: 412px;
-  height: 1116px;
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background: svg("layers/character-home-hangs-head.svg");
 }
 
 .article-details-page .container-fluid .article-body .text-block .character-home-waiting {
-  width: 409px;
-  height: 1136px;
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background: svg("layers/character-home-waiting.svg");
 }
 
 .article-details-page .container-fluid .article-body .text-block .character-home-happy {
-  width: 409px;
-  height: 1136px;
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background: svg("layers/character-home-happy.svg");
 }
 
 .article-details-page .container-fluid .article-body .text-block .home-scene {
-  width: 1920px;
-  height: 426px;
   position: absolute;
   top: 30%;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background: svg("layers/home-background.svg");
 }
 
 .article-details-page .container-fluid .article-body .text-block .character-home-taking-meds {
-  background: svg("layers/character-home.svg");
-  width: 412px;
-  height: 1110px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
 }
 
 .article-details-page .container-fluid .article-body .text-block .food-particles {
-  background: svg("layers/food-particles.svg");
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
-  width: 100px;
-  height: 100px;
   left: 99px;
   -webkit-animation-name: swallow;
           animation-name: swallow;
@@ -195,12 +75,7 @@
 }
 
 .article-details-page .container-fluid .article-body .text-block .red-stuff {
-  background: svg("layers/red-stuff.svg");
   position: absolute;
-  background-size: contain;
-  background-repeat: no-repeat;
-  width: 162px;
-  height: 109px;
   left: 98px;
   top: 608px;
   -webkit-animation-name: appear;
@@ -219,9 +94,6 @@
 
 .article-details-page .container-fluid .article-body .text-block .stomach-antacid .antacid-step {
   position: absolute;
-  width: 563;
-  height: 1477;
-  background-size: contain;
   -webkit-animation-name: appear;
           animation-name: appear;
   -webkit-animation-duration: 10s;
@@ -234,81 +106,47 @@
 }
 
 .article-details-page .container-fluid .article-body .text-block .stomach-antacid .antacid-step-1 {
-  background: svg("layers/antacid-step-1.svg");
   -webkit-animation: appear;
           animation: appear;
 }
 
 .article-details-page .container-fluid .article-body .text-block .stomach-antacid .antacid-step-2 {
-  background: svg("layers/antacid-step-2.svg");
   -webkit-animation-delay: 10s;
           animation-delay: 10s;
 }
 
 .article-details-page .container-fluid .article-body .text-block .stomach-antacid .antacid-step-3 {
-  background: svg("layers/antacid-step-3.svg");
   -webkit-animation-delay: 20s;
           animation-delay: 20s;
 }
 
 .article-details-page .container-fluid .article-body .text-block .stomach-antacid .antacid-step-4 {
-  background: svg("layers/antacid-step-4.svg");
   -webkit-animation-delay: 30s;
           animation-delay: 30s;
 }
 
 .article-details-page .container-fluid .article-body .text-block .stomach-antacid .antacid-step-5 {
-  background: svg("layers/antacid-step-5.svg");
   -webkit-animation-delay: 40s;
           animation-delay: 40s;
 }
 
 .article-details-page .container-fluid .article-body .text-block .perspective-level-1 {
-  width: 1920px;
-  height: 817px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
 }
 
 .article-details-page .container-fluid .article-body .text-block .perspective-level-2 {
-  background: svg("layers/perspective-level-2.svg");
-  width: 1047px;
-  height: 803px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
 }
 
-.article-details-page .container-fluid .article-body .text-block .perspective-level-2--mobile {
-  width: 383px;
-  height: 294px;
-}
-
 .article-details-page .container-fluid .article-body .text-block .perspective-level-3 {
-  background: svg("layers/perspective-level-3.svg");
-  width: 1814px;
-  height: 484px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
 }
 
 .article-details-page .container-fluid .article-body .text-block .perspective-level-4 {
-  background: svg("layers/perspective-level-3.svg");
-  width: 1814px;
-  height: 484px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
 }
 
 .article-details-page .container-fluid .article-body .text-block .pocket {
-  background: svg("layers/pocket.svg");
-  width: 67px;
-  height: 64px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top: 45%;
   left: 17%;
@@ -327,52 +165,30 @@
 }
 
 .article-details-page .container-fluid .article-body .text-block .flame {
-  background: svg("layers/flame.svg");
-  width: 30px;
-  height: 30px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   left: 179px;
   top: 100px;
 }
 
 .article-details-page .container-fluid .article-body .text-block .background-static {
-  background: svg("layers/background-static.svg");
-  width: 1920px;
-  height: 610px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
 }
 
 .article-details-page .container-fluid .article-body .text-block .background-static-light-on {
-  background: svg("layers/background-static-light-on.svg");
-  width: 1920px;
-  height: 610px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
 }
 
 .article-details-page .container-fluid .article-body .text-block .window-lit {
-  background: svg("layers/window-lit.svg");
-  width: 10px;
-  height: 13px;
   position: absolute;
   top: 20.9%;
   left: 48.1%;
-  background-size: contain;
 }
 
 .article-details-page .container-fluid .article-body .text-block .drinker {
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
 }
 
 .article-details-page .container-fluid .article-body .text-block .drinker--drink-up {
-  background: svg("layers/drinker-drink-up.svg");
   width: 547px;
   height: 626px;
   left: 183px;
@@ -385,7 +201,6 @@
 }
 
 .article-details-page .container-fluid .article-body .text-block .drinker--drink-down {
-  background: svg("layers/drinker-drink-down.svg");
   width: 710px;
   height: 604px;
   left: 183px;
@@ -398,130 +213,74 @@
 }
 
 .article-details-page .container-fluid .article-body .text-block .bar-bench {
-  background: svg("layers/bar-bench.svg");
-  width: 1920px;
-  height: 278px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   bottom: 0;
 }
 
 .article-details-page .container-fluid .article-body .text-block .table-for-two {
-  background: svg("layers/table-for-two.svg");
-  width: 1920px;
-  height: 1595px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
-  bottom: 0;
+  top: 320px;
 }
 
 .article-details-page .container-fluid .article-body .text-block .character-served {
-  background: svg("layers/character-served.svg");
-  width: 560px;
-  height: 958px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top: -24px;
-  left: 351px;
+  left: 372px;
 }
 
 .article-details-page .container-fluid .article-body .text-block .character-eating {
-  background: svg("layers/character-eating.svg");
-  width: 560px;
-  height: 958px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top: -24px;
-  left: 351px;
+  left: 372px;
 }
 
 .article-details-page .container-fluid .article-body .text-block .character-leans-forward {
-  background: svg("layers/character-leans-forward.svg");
-  width: 560px;
-  height: 958px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top: -24px;
-  left: 351px;
+  left: 372px;
 }
 
 .article-details-page .container-fluid .article-body .text-block .friend {
-  background: svg("layers/friend.svg");
-  width: 476px;
-  height: 920px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top: 25px;
-  left: 1019px;
+  left: 1040px;
 }
 
 .article-details-page .container-fluid .article-body .text-block .friend-distressed {
-  background: svg("layers/friend-distressed.svg");
-  width: 476px;
-  height: 920px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top: 25px;
-  left: 1019px;
+  left: 1040px;
 }
 
 .article-details-page .container-fluid .article-body .text-block .friend-distressed-2 {
-  background: svg("layers/friend-distressed-2.svg");
-  width: 476px;
-  height: 920px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top: 25px;
-  left: 1019px;
+  left: 1040px;
 }
 
 .article-details-page .container-fluid .article-body .text-block .speech-bubble-home {
-  background: svg("layers/speech-bubble-home.svg");
-  width: 311px;
-  height: 231px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top: -263px;
   left: 319px;
 }
 
 .article-details-page .container-fluid .article-body .text-block .medicine-thought-bubble {
-  background: svg("layers/medicine-thought-bubble.svg");
-  width: 237px;
-  height: 231px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top: -250px;
   left: 871px;
 }
 
+.article-details-page .container-fluid .article-body .text-block .dual-action-bottle {
+  margin: auto;
+}
+
 .article-details-page .container-fluid .article-body .text-block .character-standing-distressed {
-  width: 439px;
-  height: 1219px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   left: 351px;
   top: -280px;
-  background-image: svg("layers/character-standing-distressed.svg");
 }
 
 .article-details-page .container-fluid .article-body .text-block .character-distressed {
-  background-image: svg("layers/character-distressed.svg");
-  width: 560px;
-  height: 958px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   top: -24px;
   left: 351px;
@@ -626,10 +385,6 @@
 }
 
 .article-details-page .container-fluid .article-body .text-block .speech-bubble {
-  width: 182px;
-  height: 247px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: absolute;
   -webkit-animation-name: timeshare;
           animation-name: timeshare;
@@ -640,42 +395,32 @@
   opacity: 0;
 }
 
-.article-details-page .container-fluid .article-body .text-block .speech-bubble-spaghetti {
-  background-image: svg("layers/bubble-spaghetti.svg");
-}
-
 .article-details-page .container-fluid .article-body .text-block .speech-bubble-cheese-burger {
-  background-image: svg("layers/bubble-cheese-burger.svg");
   -webkit-animation-delay: 1s;
           animation-delay: 1s;
 }
 
 .article-details-page .container-fluid .article-body .text-block .speech-bubble-chilly-tacos {
-  background-image: svg("layers/bubble-chilly-tacos.svg");
   -webkit-animation-delay: 2s;
           animation-delay: 2s;
 }
 
 .article-details-page .container-fluid .article-body .text-block .speech-bubble-garlic-bread {
-  background-image: svg("layers/bubble-garlic-bread.svg");
   -webkit-animation-delay: 3s;
           animation-delay: 3s;
 }
 
 .article-details-page .container-fluid .article-body .text-block .speech-bubble-mint-choco {
-  background-image: svg("layers/bubble-mint-choco.svg");
   -webkit-animation-delay: 4s;
           animation-delay: 4s;
 }
 
 .article-details-page .container-fluid .article-body .text-block .speech-bubble-pink-lemonade {
-  background-image: svg("layers/bubble-pink-lemonade.svg");
   -webkit-animation-delay: 5s;
           animation-delay: 5s;
 }
 
 .article-details-page .container-fluid .article-body .text-block .speech-bubble-pizza {
-  background-image: svg("layers/bubble-pizza.svg");
   -webkit-animation-delay: 6s;
           animation-delay: 6s;
 }
@@ -705,12 +450,6 @@
 }
 
 .article-details-page .container-fluid .article-body .text-block .stat-1 {
-  background-image: svg("layers/stat1.svg");
-  background-repeat: no-repeat;
-  width: 686px;
-  height: 375px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: relative;
   background-position: center;
 }
@@ -723,14 +462,7 @@
 }
 
 .article-details-page .container-fluid .article-body .text-block .stat-2 {
-  background-image: svg("layers/stat2.svg");
-  background-repeat: no-repeat;
-  width: 686px;
-  height: 800px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: relative;
-  background-position: center;
 }
 
 @media (max-width: 600px) {
@@ -741,14 +473,7 @@
 }
 
 .article-details-page .container-fluid .article-body .text-block .stat-3 {
-  background-image: svg("layers/stat3.svg");
-  background-repeat: no-repeat;
-  width: 686px;
-  height: 800px;
-  background-repeat: no-repeat;
-  background-size: contain;
   position: relative;
-  background-position: center;
 }
 
 @media (max-width: 600px) {
@@ -759,11 +484,6 @@
 }
 
 .article-details-page .container-fluid .article-body .text-block .globe {
-  background-image: svg("layers/globe.svg");
-  background-repeat: no-repeat;
-  width: 491px;
-  height: 485px;
-  background-size: contain;
   position: relative;
   background-position: center;
 }
@@ -777,11 +497,6 @@
 
 .article-details-page .container-fluid .article-body .text-block .radiating-circle {
   position: relative;
-  width: 25px;
-  height: 25px;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-image: svg("layers/radiating-circle.svg");
   -webkit-animation-duration: 2s;
           animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
